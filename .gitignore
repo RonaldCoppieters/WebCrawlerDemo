@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-json_pages
+
+# Custom
+.idea/
+json_pages/
